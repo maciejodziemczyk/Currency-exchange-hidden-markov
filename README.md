@@ -19,7 +19,7 @@ Findings
  - no known profile for NZD and LKR
  - NZD has constant mean, states only differ in variance
 
-In this project I learnt about exchange rates modelling and practice my time series analysis skills (especially cointegration testing)
+In this project I learnt about exchange rates modelling and practice my time series analysis skills (especially cointegration testing and markov models)
 
 ## Repository description
  - Kuzma_Odziemczyk_minimodel_3.pdf - project report (I strongly recommend you to read it)
