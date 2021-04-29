@@ -38,5 +38,5 @@ In this project I learnt about exchange rates modelling and practice my time ser
  - Maciej Odziemczyk
  
  ## Note
- Markov models are hard to estimate, we had many numerical problems so obtained results may be biased
+ Markov models are difficult to estimate, we had many numerical problems so obtained results may be biased
 
