@@ -17,7 +17,7 @@ Findings
  - asymmetric swings for CHF
  - no random walk for considered rates
  - no known profile for NZD and LKR
- - NZD has constant mean, states differs by variance only
+ - NZD has constant mean, states only differ in variance
 
 In this project I learnt about exchange rates modelling and practice my time series analysis skills (especially cointegration testing)
 
