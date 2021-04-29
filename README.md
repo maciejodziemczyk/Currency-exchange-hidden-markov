@@ -1,4 +1,4 @@
-# Currency exchange - hidden markov
+# Currency exchange - markov switching model
 Project created for Advanced Econometrics II (org. Zaawansowana Ekonometria II) classes at WNE UW
 
 Language:
