@@ -34,8 +34,8 @@ In this project I learnt about exchange rates modelling and practice my time ser
  - LaTeX (report)
  
  ## Authors
- Bartek Kuźma
- Maciej Odziemczyk
+ - Bartek Kuźma
+ - Maciej Odziemczyk
  
  ## Note
  Markov models are hard to estimate, we had many numerical problems so obtained results may be biased
